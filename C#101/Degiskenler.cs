@@ -53,7 +53,7 @@ class Degiskenler {
     
     int int21 = int20 + Convert.ToInt32(str20);
 
-    int 00int22 = int20 + int.Parse(str20);
+    int int22 = int20 + int.Parse(str20);
 
     // datetime
     string datetime = DateTime.Now.ToString("dd.MM.yyyy");
